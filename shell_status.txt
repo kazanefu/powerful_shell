@@ -1,1 +1,2 @@
-hp:10 atk:2 def:1 grow:0
+hp:24 atk:7 def:7 grow:9
+last_play:2025-10-29
